@@ -188,4 +188,4 @@ with aba3:
         st.plotly_chart(fig_vendas_vendedores, use_container_width=True)
 
 
-## APP de teste.
+## APP de teste
